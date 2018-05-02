@@ -1,0 +1,7 @@
+This project was created for my dear friend Gosha. He has a shop of table games
+and these scripts load data from competitors site and analyze it.
+
+install all requirements:
+  pip install -r requirements.txt
+
+See python load_tool.py --help
